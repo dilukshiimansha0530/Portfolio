@@ -1,0 +1,1 @@
+{"name":"dilukshi-imansha-portfolio","version":"2.0.0","private":true,"type":"module","scripts":{"start":"node tools/serve.mjs","build":"node tools/prerender.mjs","test":"node tools/check.mjs"},"devDependencies":{"linkedom":"0.18.12"}}

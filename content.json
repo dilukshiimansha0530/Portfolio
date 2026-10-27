@@ -1,0 +1,307 @@
+{
+  "contentVersion": "dilukshi-2026-10-27-v1",
+  "name": "Dilukshi Imansha",
+  "fullName": "K.W. Dilukshi Imansha Thilakarathne",
+  "role": "B.Com (Hons) Undergraduate · Business Technology Management, University of Jaffna",
+  "location": "Pelmadulla, Sri Lanka",
+  "availability": "Open to professional opportunities",
+  "headline": [
+    "Dilukshi",
+    "Imansha",
+    ""
+  ],
+  "intro": "A highly motivated and enthusiastic undergraduate eager to begin a professional career in a reputable organization, applying academic knowledge, developing new skills and gaining valuable practical experience.",
+  "about": "I am K.W. Dilukshi Imansha Thilakarathne, a B.Com (Hons) undergraduate specializing in Business Technology Management at the University of Jaffna. I am seeking an opportunity to begin my professional career in a reputable organization where I can apply my academic knowledge, develop new skills and gain valuable practical experience.\n\nI am eager to learn from experienced professionals, take on new challenges and improve my personal and professional abilities. With strong communication, teamwork, time management and problem-solving skills, I am committed to working responsibly, adapting to new environments and contributing positively to the growth and success of the organization.",
+  "focus": "Business Technology Management",
+  "gpa": "3.56",
+  "gpaScale": "4.00",
+  "languages": "Sinhala · English",
+  "skills": [
+    "Teamwork",
+    "Leadership",
+    "Presentation",
+    "Communication",
+    "Time Management",
+    "Problem-Solving"
+  ],
+  "tools": [
+    "Microsoft 365",
+    "SPSS",
+    "AI Literacy",
+    "Agile"
+  ],
+  "email": "dilukshiimansha0530@gmail.com",
+  "phone": "070 300 6289",
+  "github": "",
+  "linkedin": "https://www.linkedin.com/in/dilukshi-thilakarathne-b3639b39a",
+  "photo": "",
+  "resume": "assets/Dilukshi-Imansha-CV.pdf",
+  "resumeName": "Dilukshi-Imansha-CV.pdf",
+  "educationTitle": "B.Com (Hons) in Business Technology Management",
+  "educationDescription": "University of Jaffna · 2023 – Present · GPA 3.56 / 4.00",
+  "contactIntro": "I welcome opportunities to learn, contribute and grow. Feel free to reach out by email, phone or LinkedIn.",
+  "isTemplate": false,
+  "education": [
+    {
+      "title": "B.Com (Hons) Specialized in Business Technology Management",
+      "institution": "University of Jaffna",
+      "period": "2023 – Present",
+      "status": "Currently reading",
+      "detail": "Current GPA: 3.56 / 4.00"
+    },
+    {
+      "title": "Foundation and Agile Project Management Certificate Course",
+      "institution": "University of Moratuwa",
+      "period": "2026 · Completed",
+      "status": "Completed",
+      "detail": "Foundations of Project Management and Agile Project Management in ICT Projects"
+    },
+    {
+      "title": "Diploma in Human Resource Management",
+      "institution": "IMBS Green Campus",
+      "period": "2026 – Present",
+      "status": "Currently reading",
+      "detail": ""
+    },
+    {
+      "title": "Foundation Certificate in Business Management and Marketing",
+      "institution": "International Business Studies Campus",
+      "period": "2026 – Present",
+      "status": "Currently reading",
+      "detail": ""
+    },
+    {
+      "title": "G.C.E. Advanced Level",
+      "institution": "Rathnapura Sumana Balika Vidyalaya",
+      "period": "2021",
+      "status": "Completed",
+      "detail": "Results: 1 A · 2 B"
+    },
+    {
+      "title": "AAT Level 1",
+      "institution": "Association of Accounting Technicians (AAT)",
+      "period": "2019 · Completed",
+      "status": "Completed",
+      "detail": ""
+    }
+  ],
+  "skillGroups": [
+    {
+      "title": "Core Skills",
+      "subtitle": "Personal and professional strengths",
+      "items": [
+        "Teamwork",
+        "Leadership",
+        "Presentation",
+        "Communication",
+        "Time Management",
+        "Problem-Solving"
+      ]
+    },
+    {
+      "title": "Research & Analysis",
+      "subtitle": "Applied through research and case study work",
+      "items": [
+        "Quantitative Analysis",
+        "SPSS",
+        "Survey Design",
+        "Literature Review",
+        "Data Collection",
+        "Research Reporting",
+        "Case Analysis"
+      ]
+    },
+    {
+      "title": "Digital & Business Knowledge",
+      "subtitle": "Covered by completed certifications",
+      "items": [
+        "Microsoft 365",
+        "Microsoft Copilot",
+        "AI Literacy",
+        "Cybersecurity",
+        "Digital Marketing",
+        "Project Management",
+        "Agile"
+      ]
+    },
+    {
+      "title": "Languages",
+      "subtitle": "Spoken and written",
+      "items": [
+        "Sinhala",
+        "English"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "AI Chatbot Adoption in SMEs",
+      "category": "Undergraduate Research",
+      "description": "Researching the factors influencing AI chatbot adoption among SMEs in Sri Lanka through quantitative analysis, including literature review, survey design, data analysis using SPSS, and research reporting.",
+      "details": "An ongoing undergraduate research project exploring the factors influencing AI chatbot adoption among small and medium-sized enterprises in Sri Lanka.\n\nThe work includes literature review, survey design, quantitative analysis using SPSS, and research reporting.",
+      "tags": [
+        "Quantitative",
+        "SPSS",
+        "Survey Design"
+      ],
+      "status": "In progress",
+      "progress": null,
+      "image": "",
+      "live": "",
+      "source": "",
+      "example": false
+    },
+    {
+      "title": "Cyber Security Awareness",
+      "category": "Group Research",
+      "description": "Conducted a group research project focusing on understanding individuals’ awareness of cyber threats and online safety practices. Participated in data collection, analysis, and presentation of research findings.",
+      "details": "A group research project focused on understanding individuals’ awareness of cyber threats and online safety practices.\n\nMy contribution included data collection, analysis, and presentation of research findings, while developing research, teamwork, and communication skills.",
+      "tags": [
+        "Data Collection",
+        "Analysis",
+        "Presentation"
+      ],
+      "status": "Completed",
+      "progress": 100,
+      "image": "",
+      "live": "",
+      "source": "",
+      "example": false
+    },
+    {
+      "title": "Boeing 737 MAX: A Crisis of Technology, Governance and Trust",
+      "category": "Case Study",
+      "description": "Conducted case analysis, research, strategic recommendations, and a team presentation on the Boeing 737 MAX crisis as a member of the Phoenix Consulting Team.",
+      "details": "A first-place case study by the Phoenix Consulting Team for the Department of Commerce competition, August 2026.\n\nConducted case analysis, research, strategic recommendations, and the team presentation on the Boeing 737 MAX crisis. Recognized for outstanding teamwork, commitment, research, analytical thinking, and presentation excellence.",
+      "tags": [
+        "Case Analysis",
+        "Strategy",
+        "Teamwork"
+      ],
+      "status": "Completed",
+      "progress": 100,
+      "award": "1st Place",
+      "image": "",
+      "live": "",
+      "source": "",
+      "example": false
+    }
+  ],
+  "achievements": [
+    {
+      "title": "Case Study Competition – Department of Commerce",
+      "placement": "1st Place",
+      "role": "Team Member, Phoenix Consulting Team · August 2026",
+      "description": "Conducted case analysis, research, strategic recommendations and the team presentation on the Boeing 737 MAX crisis. Recognized for outstanding teamwork, commitment, research, analytical thinking and presentation excellence.",
+      "certificate": 5
+    },
+    {
+      "title": "Short Film Competition – “Just a Message”",
+      "placement": "1st Place",
+      "role": "Director & Editor · Cyber Psychology, University of Jaffna",
+      "description": "Directed and edited “Just a Message,” a short film on online harassment, for the Cyber Psychology subject at the University of Jaffna.",
+      "certificate": null
+    },
+    {
+      "title": "Yarl Advertising Fiesta 2026",
+      "placement": "Semi-Finalist",
+      "role": "Team Member, The Fab Six · Inter-University Advertising Competition",
+      "description": "Contributed to the STING advertising campaign as a member of The Fab Six team, reaching the semi-finals of the competition organized by the Department of Marketing, University of Jaffna.",
+      "certificate": 6
+    }
+  ],
+  "creative": [
+    {
+      "title": "STING Advertisement",
+      "type": "Advertising",
+      "award": "Semi-Finalist",
+      "description": "An advertising campaign for STING created by The Fab Six team for the Yarl Advertising Fiesta 2026 inter-university advertising competition, where the team reached the semi-finals.",
+      "watch": "https://drive.google.com/file/d/1CyUK_6E7Q5TSAAIv93bAKxiSdeKp7rUc/view?usp=sharing",
+      "drive": "https://drive.google.com/file/d/1CyUK_6E7Q5TSAAIv93bAKxiSdeKp7rUc/preview",
+      "poster": ""
+    },
+    {
+      "title": "Just a Message",
+      "type": "Short Film",
+      "award": "1st Place",
+      "description": "A short film on online harassment, directed and edited for the Cyber Psychology subject at the University of Jaffna. The film won 1st place in the short film competition.",
+      "watch": "https://www.facebook.com/share/v/1CQAVAsyhv/",
+      "drive": "",
+      "poster": ""
+    }
+  ],
+  "certificates": [
+    {
+      "title": "Basics of Digital Marketing",
+      "issuer": "UniAthena · Cambridge International Qualifications, UK",
+      "date": "14 May 2026",
+      "description": "Completed the Basics of Digital Marketing course, delivered by UniAthena in partnership with Cambridge International Qualifications, UK.",
+      "image": "assets/certificates/digital-marketing.jpg",
+      "url": "",
+      "example": false
+    },
+    {
+      "title": "Agile Project Management in ICT Projects",
+      "issuer": "University of Moratuwa · CODL",
+      "date": "2026",
+      "description": "Participated in the online learning programme conducted by the Department of Computer Science and Engineering, Faculty of Engineering, University of Moratuwa.",
+      "image": "assets/certificates/agile-project-management.jpg",
+      "url": "",
+      "example": false
+    },
+    {
+      "title": "Cybersecurity Foundations",
+      "issuer": "LinkedIn Learning",
+      "date": "22 November 2025",
+      "description": "Completed the Cybersecurity Foundations course, covering cybersecurity knowledge.",
+      "image": "assets/certificates/cybersecurity-foundations.jpg",
+      "url": "",
+      "example": false
+    },
+    {
+      "title": "Foundations of Project Management",
+      "issuer": "University of Moratuwa · CODL",
+      "date": "2026",
+      "description": "Participated in the online learning programme conducted by the Department of Civil Engineering, Faculty of Engineering, University of Moratuwa.",
+      "image": "assets/certificates/foundations-project-management.jpg",
+      "url": "",
+      "example": false
+    },
+    {
+      "title": "Learning Microsoft 365 Copilot for Work (2024)",
+      "issuer": "LinkedIn Learning",
+      "date": "24 November 2025",
+      "description": "Completed training covering Office 365, Microsoft Copilot, and Artificial Intelligence (AI).",
+      "image": "assets/certificates/microsoft-365-copilot.jpg",
+      "url": "",
+      "example": false
+    },
+    {
+      "title": "1st Place — Case Study Competition",
+      "issuer": "Department of Commerce · Phoenix Consulting Team",
+      "date": "31 August 2026",
+      "description": "Certificate of achievement recognizing teamwork, commitment, research, analytical thinking, and presentation excellence for the Boeing 737 MAX case study.",
+      "image": "assets/certificates/case-study-first-place.jpg",
+      "url": "",
+      "example": false
+    },
+    {
+      "title": "Yarl Advertising Fiesta 2026",
+      "issuer": "Department of Marketing · University of Jaffna",
+      "date": "2026",
+      "description": "Certificate of achievement for contribution to the inter-university advertising competition as a member of The Fab Six, reaching the semi-finals with the STING campaign.",
+      "image": "assets/certificates/yarl-advertising-fiesta.jpg",
+      "url": "",
+      "example": false
+    },
+    {
+      "title": "Introduction to Artificial Intelligence",
+      "issuer": "LinkedIn Learning",
+      "date": "23 November 2025",
+      "description": "Completed training covering AI Literacy and Artificial Intelligence (AI).",
+      "image": "assets/certificates/introduction-ai.jpg",
+      "url": "",
+      "example": false
+    }
+  ]
+}
